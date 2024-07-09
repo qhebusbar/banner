@@ -1,10 +1,12 @@
 package com.test.banner.demo;
 
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Spinner;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.test.banner.App;
 import com.test.banner.R;

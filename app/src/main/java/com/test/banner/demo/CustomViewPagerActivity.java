@@ -1,9 +1,11 @@
 package com.test.banner.demo;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.test.banner.App;
 import com.test.banner.R;
